@@ -1,0 +1,2 @@
+# SomeLittlePythonCode
+一些有小功能的python代码，包括调API下骚话、读取APP和每日一报等等
