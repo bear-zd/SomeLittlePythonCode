@@ -3,7 +3,7 @@ from selenium import webdriver
 import time
 import random
 
-base_url="https://newsso.shu.edu.cn/login"
+base_url="http://selfreport.shu.edu.cn/Default.aspx"
 #导入库
 options = webdriver.ChromeOptions()
 options.add_argument('--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36')#UA伪装
